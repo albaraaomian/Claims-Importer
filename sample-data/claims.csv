@@ -1,0 +1,3 @@
+provider,claim_number,status,claim_amount,claim_date
+Provider A,12345,Open,100.50,2025-12-01
+Provider B,12346,Closed,250.00,2025-12-02
